@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
 
 
     private String baseUrl = "https://%s.fxexchangerate.com/%s.xml";
-    private String USER_NAME = "jack123";
+    private String USER_NAME = "caoth";
     private String currencyCodeUrl = "http://api.geonames.org/countryInfoJSON?username="
                                     + USER_NAME;
     private String result;
